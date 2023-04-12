@@ -70,19 +70,19 @@ section div {
 
 .box3 {
     grid-area: box3;
-    background-image: url("resources/images/harry_potter.jpeg");
+    background-image: url("harry_potter.jpeg");
     background-size: 108%;
 }
 
 .box4 {
     grid-area: box4;
-    background-image: url("resources/images/hermione.jpeg");
+    background-image: url("hermione.jpeg");
     background-size: 120%;
 }
 
 .box5 {
     grid-area: box5;
-    background-image: url("resources/images/ron.jpeg");
+    background-image: url("ron.jpeg");
     background-size: 120%;
 }
 
